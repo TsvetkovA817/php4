@@ -1,0 +1,19 @@
+﻿Участвую в разработке проекта №1, ветка develop,  мои комиты:
+
+1.Создание, модификация таблиц БД: 
+
+https://github.com/XXXVLSCCCP/Big-Bang/commit/48a3fcefe20029712371cc99023ddbdc967a6a43
+https://github.com/XXXVLSCCCP/Big-Bang/commit/bda7937870075d76a38804621feb39e418f802d9
+https://github.com/XXXVLSCCCP/Big-Bang/commit/face255726ef74e2ac697e2a4f8272036a03a61e
+
+2.Добавление авторизации-регистрации:
+
+https://github.com/XXXVLSCCCP/Big-Bang/commit/291c42dfc935e446498df48f75870c8a0a4b5f7b
+
+3.Контроллеры, модели, шаблоны страниц:
+
+https://github.com/XXXVLSCCCP/Big-Bang/commit/e16cf2589fc85d71ff678f016342ecefbf5d553d
+https://github.com/XXXVLSCCCP/Big-Bang/commit/2632a65a68d1de5249d1df8f8bb18fcd57319c7b
+https://github.com/XXXVLSCCCP/Big-Bang/commit/f59baffbd507ce1aa8d22661cd6b3381f9b25766
+
+4.Проблем нет
