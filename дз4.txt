@@ -1,0 +1,13 @@
+﻿Продолжаю делать backend часть проект №1, ветка laravel, мои комиты:
+
+1) Отправка приглашения Партнеру, добавление его в Контакты, модель Contact:
+
+https://github.com/XXXVLSCCCP/Big-Bang/commit/8ef1a3e691e494c6d0d797dac718989a5314098a
+
+2) Обмен сообщениями между пользователями: Функция sendMsg, доработка котроллеров, изменение БД:
+
+https://github.com/XXXVLSCCCP/Big-Bang/commit/3daca3e8ac9ab138684e558797525ef6302cf3ab
+
+3) Админка: Добавлены справочники Страны, Мессенджеры, Языки, Пользователи их модели и контроллеры в админ часть:
+
+https://github.com/XXXVLSCCCP/Big-Bang/commit/0965d4726d462782ceb6ae4255e761ab7e11845a
