@@ -1,0 +1,14 @@
+﻿Продолжаю делать backend часть, проект №1, ветка develop, мои комиты:
+
+1) Добавил API аутентификация sanctum, Доработка: AuthController, logout
+
+https://github.com/XXXVLSCCCP/Big-Bang/commit/21f17ffe9c301beb16840031f837b51c0ec802cc
+https://github.com/XXXVLSCCCP/Big-Bang/commit/6428795f09d3eed15267fe75be480c9f8f35c7df
+
+2) Добавил API получение  профиля текущего пользователя через ресурсы
+
+https://github.com/XXXVLSCCCP/Big-Bang/commit/759b6c1ccd07a7fd4ba455cdb96dab887d94161b
+
+3) Добавил API получение  профиля любого пользователя через ресурсы
+
+https://github.com/XXXVLSCCCP/Big-Bang/commit/52b36d1360418f6882bf52528a1d00946472da1e
