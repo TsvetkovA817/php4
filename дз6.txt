@@ -1,0 +1,23 @@
+﻿Продолжаю делать backend часть, проект №1, ветка develop, мои комиты:
+
+1) Api Получение справочников целиком listOfCountries, listOfLanguages
+
+https://github.com/XXXVLSCCCP/Big-Bang/commit/c42f49faf8057b521cfec193809f009b019c85d3
+
+
+2) Добавлен API BaseController функция sendResponse
+
+https://github.com/XXXVLSCCCP/Big-Bang/commit/4b1793fe81a7ac6bec5b1f8ff1819ca61b7bbd4c
+
+
+3) Доработка ProfileController функция update
+
+https://github.com/XXXVLSCCCP/Big-Bang/commit/5d15e67110cd64bb7770c62e5cad552503d46be1
+
+4) Добавлен API FindPartnerController с функциями поиска партнера
+
+https://github.com/XXXVLSCCCP/Big-Bang/commit/d2b98de222a1a22c0fc9751eb656558fb916a7b0
+
+5) Доработка FindPartnerController, FindResource убран вывод ИД
+
+https://github.com/XXXVLSCCCP/Big-Bang/commit/d7262c7e7a2062c5d954152ee15cf350e818bfa1
